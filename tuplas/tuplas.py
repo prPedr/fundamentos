@@ -1,7 +1,9 @@
-tupla_numeros = (1, 2, 3, 4, 5)
+n1 = (1, 2, 3)
 
-print(tupla_numeros)
+n2 = (4, 5, 6)
 
-print()
+n3 = (n1 + n2) * 2
 
-print(tupla_numeros[2])
+print(n3)
+
+print(n3.index(5))
