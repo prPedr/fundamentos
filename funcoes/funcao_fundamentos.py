@@ -19,4 +19,15 @@ def area_retangulo():
 
     print(f"A área do retângulo é: {area}")
 
-area_retangulo()
+def par_impar():
+    numero_par = input("Digite um número para verificar se é par ou ímpar: ")
+    numero_par_float = float(numero_par)
+
+    if numero_par_float % 2 == 0:
+        print(f"O número {numero_par_float} é par.")
+    elif numero_par_float % 2 != 0:
+        print(f"O número {numero_par_float} é ímpar.")
+    else:
+        print("Valor inválido.")
+
+par_impar()
