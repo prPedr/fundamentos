@@ -1,0 +1,29 @@
+{
+    "livros": [
+        {
+            "titulo": "Dom Casmurro",
+            "autor": "Machado de Assis",
+            "ano": 1899
+        },
+        {
+            "titulo": "O Guarani",
+            "autor": "Jos\u00e9 de Alencar",
+            "ano": 1857
+        },
+        {
+            "titulo": "Mem\u00f3rias P\u00f3stumas de Br\u00e1s Cubas",
+            "autor": "Machado de Assis",
+            "ano": 1881
+        },
+        {
+            "titulo": "Iracema",
+            "autor": "Jos\u00e9 de Alencar",
+            "ano": 1865
+        },
+        {
+            "titulo": "A Moreninha",
+            "autor": "Joaquim Manuel de Macedo",
+            "ano": 1844
+        }
+    ]
+}
